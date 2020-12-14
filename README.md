@@ -28,12 +28,11 @@
 
 ---
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="SihamBen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SihamBen&show_icons=true&hide_border=true" />
 
-</details>
 <br />
 
 ### Languages and Tools:
