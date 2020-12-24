@@ -12,7 +12,7 @@
 
 <!-- PROJECTS-LIST:START -->
 
-- [Outdoors](https://outdoors-5678789.netlify.app/booking.html)
+- [Outdoors](https://outdoors-5678789.netlify.app)
 
 <!-- PROJECTS-LIST:END -->
 
