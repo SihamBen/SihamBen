@@ -3,7 +3,7 @@
 ## I'm a Student and Web Developer!!
 
 - 🌱 I’m interested in Web technologies and Cloud
-- 🥅 2020 Goals: Survive
+- 🥅 2021 Goals: Survive
 - ⚡ Fun fact: I love Embroidery, Music and Crime Shows.
 
 
