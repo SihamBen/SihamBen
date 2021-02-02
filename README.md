@@ -13,6 +13,8 @@
 <!-- PROJECTS-LIST:START -->
 
 - [Outdoors](https://outdoors-5678789.netlify.app)
+- [S7aba Podcast](https://s7aba.ma)
+
 
 <!-- PROJECTS-LIST:END -->
 
