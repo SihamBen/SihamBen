@@ -12,7 +12,7 @@
 
 <!-- PROJECTS-LIST:START -->
 
-- [Outdoors](https://outdoors-5678789.netlify.app)
+- [Outdoors](https://outdoors-bendaia.netlify.app)
 - [S7aba Podcast](https://s7aba.ma)
 
 
