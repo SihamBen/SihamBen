@@ -14,7 +14,7 @@
 
 - [Outdoors](https://outdoors-bendaia.netlify.app)
 - [S7aba Podcast](https://s7aba.ma)
-
+- [Geeks Talk](https://geeks-talk-v0.herokuapp.com/)
 
 <!-- PROJECTS-LIST:END -->
 
