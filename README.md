@@ -1,6 +1,6 @@
 ### Hi there, I'm Siham 👋
 
-## I'm a Student and Web Developer!!
+## I'm currently working as a mobile developer(React Native)!
 
 - 🌱 I’m interested in Web technologies and Cloud
 - 🥅 2021 Goals: Survive
@@ -30,10 +30,6 @@
 
 ---
 
-
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" display="block" alt="SihamBen's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SihamBen&show_icons=true&hide_border=true" />
 
 <br />
 <br />
