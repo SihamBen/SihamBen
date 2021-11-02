@@ -2,9 +2,9 @@
 
 ## I'm currently working as a mobile developer(React Native)!
 
-- 🌱 I’m interested in Web technologies and Cloud
-- 🥅 2021 Goals: Survive
-- ⚡ Fun fact: I love Embroidery, Music and Crime Shows.
+- 🌱  Wokring with React, React Native and Next.js
+- 🥅  2021 Goals: Survive
+- ⚡  Fun fact: I love Embroidery, Music and Crime Shows.
 
 
 
@@ -28,18 +28,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
----
 
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
----
 
 ### Languages and Tools:
 
@@ -63,7 +52,7 @@
 [<img align="left" alt="SihamBendaia | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="SihamBendaia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SihamBendaia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="SihamBendaia | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
+[<img align="left" alt="SihamBendaia |  Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
 
 
 [twitter]: https://twitter.com/BendaiaS
