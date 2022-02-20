@@ -3,7 +3,7 @@
 ## I'm currently working as a mobile developer(React Native)!
 
 - 🌱  Wokring with React, React Native and Next.js
-- 🥅  2021 Goals: Survive
+- 🥅  2022 Goals: Survive
 - ⚡  Fun fact: I love Embroidery, Music and Crime Shows.
 
 
