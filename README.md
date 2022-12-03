@@ -14,6 +14,8 @@
 
 - [Web hosting in Google Cloud, when to use what?](https://medium.com/@siham.bendaia37/web-hosting-in-google-cloud-when-to-use-what-8dcd6e6ef705)
 
+- [Native mobile development concepts for React Native developers (part 1)](https://www.obytes.com/blog/what-you-need-to-know-about-native-developement-as-react-native-developer-part1)
+
 
 <!-- BLOG-POST-LIST:END -->
 
