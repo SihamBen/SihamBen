@@ -2,8 +2,8 @@
 
 ## I'm currently working as a mobile developer(React Native)!
 
-- 🌱  Wokring with React, React Native and Next.js
-- 🥅  2022 Goals: Survive
+- 🌱  Wokring with React, React Native
+- 🥅  2023 Goals: Survive
 
 
 ### 📕 Latest Blog Posts
@@ -15,6 +15,8 @@
 - [Web hosting in Google Cloud, when to use what?](https://medium.com/@siham.bendaia37/web-hosting-in-google-cloud-when-to-use-what-8dcd6e6ef705)
 
 - [Native mobile development concepts for React Native developers (part 1)](https://www.obytes.com/blog/what-you-need-to-know-about-native-developement-as-react-native-developer-part1)
+
+- [Native mobile development concepts for React Native developers (part 2)](https://www.obytes.com/blog/what-you-need-to-know-about-native-developement-as-react-native-developer-part2)
 
 
 <!-- BLOG-POST-LIST:END -->
