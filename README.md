@@ -1,26 +1,17 @@
 ### Hi there, I'm Siham 👋
 
-## I'm currently working as a mobile developer(React Native)!
-
-- 🌱  Wokring with React, React Native
-- 🥅  2023 Goals: Survive
-
+I'm currently working as a mobile developer at [Obytes](https://www.obytes.com/), I mainly use React Native and Typescript.
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
-- [A guide to optimizing Flatlists in React Native.](https://www.obytes.com/blog/a-guide-to-optimizing-flatlists-in-react-native)
+- [Native mobile development concepts for React Native developers (part 2)](https://www.mindhunter.dev/posts/native-dev-concepts-2)
 
-- [Web hosting in Google Cloud, when to use what?](https://medium.com/@siham.bendaia37/web-hosting-in-google-cloud-when-to-use-what-8dcd6e6ef705)
-
-- [Native mobile development concepts for React Native developers (part 1)](https://www.obytes.com/blog/what-you-need-to-know-about-native-developement-as-react-native-developer-part1)
-
-- [Native mobile development concepts for React Native developers (part 2)](https://www.obytes.com/blog/what-you-need-to-know-about-native-developement-as-react-native-developer-part2)
+- [Native mobile development concepts for React Native developers (part 1)](https://www.mindhunter.dev/posts/native-dev-concepts-1)
 
 
 <!-- BLOG-POST-LIST:END -->
-
 
 
 ### Languages and Tools:
