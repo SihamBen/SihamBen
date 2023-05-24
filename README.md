@@ -6,10 +6,9 @@ I'm currently working as a mobile developer at [Obytes](https://www.obytes.com/)
 
 <!-- BLOG-POST-LIST:START -->
 
+- [7 Blogs I enjoy reading as React Native developer](https://www.mindhunter.dev/posts/react-native-blogs)
+
 - [Native mobile development concepts for React Native developers (part 2)](https://www.mindhunter.dev/posts/native-dev-concepts-2)
-
-- [Native mobile development concepts for React Native developers (part 1)](https://www.mindhunter.dev/posts/native-dev-concepts-1)
-
 
 <!-- BLOG-POST-LIST:END -->
 
